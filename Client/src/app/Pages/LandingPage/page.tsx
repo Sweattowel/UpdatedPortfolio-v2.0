@@ -26,7 +26,7 @@ const Top = () => {
             }}
         >
             <div
-                className="md:bg-black  md:bg-opacity-60 md:w-[50%] md:mr-[25%] md:mb-[25%] h-full md:h-[50%] flex flex-col justify-center items-center p-16"
+                className=" mt-[15vh] md:bg-black  md:bg-opacity-60 md:w-[50%] md:mr-[25%] md:mb-[25%] h-full md:h-[35%] flex flex-col justify-center items-center p-16"
             >
                 <h2
                     className="text-4xl w-full text-center opacity-100 font-serif"
@@ -100,17 +100,10 @@ const Middle = () => {
     ];
     
     return (
-        <section className="h-full md:h-[50vh] bg-black flex justify-between text-white" >
-            <div className="flex flex-row w-full flex-wrap justify-center items-center grid grid-rows-2 grid-cols-2 md:grid-cols-3" 
-                        style={{
-                            backgroundImage: "url(https://us.123rf.com/450wm/samotrebizan/samotrebizan1603/samotrebizan160300242/53072599-portrait-of-beautiful-blonde-woman-in-darkness-with-soft-light-on-her-face-pensive-silhuette-in-on.jpg?ver=6",
-                            backgroundSize: 'cover',
-                            backgroundPosition: 'center',
-                            backgroundRepeat: 'no-repeat'
-                        }}
-            >
+        <section className="h-full md:h-[70vh] bg-black flex md:flex-row flex-col justify-between text-white" >
+            <div className="flex flex-row w-full flex-wrap justify-center items-center grid grid-rows-2 grid-cols-2 md:grid-cols-3"  >
                 {Cards.map((card, index: number) => (
-                    <div className="bg-black shadow-inner shadow-white h-[90%] md:h-[80%] w-[80%] flex flex-col justify-evenly text-center items-center p-5 m-2"
+                    <div className="bg-black shadow-inner shadow-white h-[90%] md:h-[80%] w-[80%] flex flex-col justify-evenly text-center items-center p-5 m-2 ml-auto mr-auto"
                         key={index}
                     >
                         <h2 className="text-2xl"  >
@@ -128,6 +121,7 @@ const Middle = () => {
                     </div>
                 ))}
             </div>
+            <img className="md:w-[25%] md:h-[50%] w-full h-full m-auto" src="https://us.123rf.com/450wm/samotrebizan/samotrebizan1603/samotrebizan160300242/53072599-portrait-of-beautiful-blonde-woman-in-darkness-with-soft-light-on-her-face-pensive-silhuette-in-on.jpg?ver=6" alt="" />
         </section>        
     )
 }

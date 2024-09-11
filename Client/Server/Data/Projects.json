@@ -1,0 +1,89 @@
+[
+    {
+        "projectName": "AlieSohn Pottery",
+        "projectSummary": "AlieSohn Pottery is a collaborative E-Commerce Site which leverages React, tailwind and more to create a seamless first come first serve store experience",
+        "projectGithubLink": "https://github.com/Sweattowel/AlieSohn-Pottery",
+        "projectTechnologyUsed": [
+            "React",
+            "tailwind CSS",
+            "Multer", 
+            "dotnet", 
+            "node.JS", 
+            "Bcrypt",
+            "JWT",
+            "Material UI", 
+            "Framer-motion", 
+            "Prettier",
+            "Twin server scripts with JS and C#"
+        ],
+        "backgroundImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoK7f3kT8IfsnUKn4Nnzhu6pRJkUUsy1QfzA&s"
+    },
+    {
+        "projectName": "JavaScript Connector",
+        "projectSummary": "A designed data transmitter used to take in SQL data as JSON, transform that data with the editing of columns and specific sets before return or asssigning said data to a new location.",
+        "projectGithubLink": "https://github.com/Sweattowel/connector",
+        "projectTechnologyUsed": [
+            "JSON",
+            "Next.js",
+            "Tailwind",
+            "Typescript"
+        ],
+        "backgroundImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFDggV27FRdskqVK9t7SHHULSDNREOVOBM_A&s"
+    },
+    {
+        "projectName": "Research and development",
+        "projectSummary": "A multitude of basic projects and components that seek to explore and create based on new concepts, this includes but does not limit itself to, 2D Engine rendering, 3D engine rendering, API experimentation, New and experimental design choices! Please visit github to find out more",
+        "projectGithubLink": "https://github.com/Sweattowel/3dEngineAndOtherExperiments",
+        "projectTechnologyUsed": [
+            "2D rotation and movement using Math",
+            "4D matrix rotation handling X, Y, Z and W adjustment in a 3D environment",
+            "Full Coordinate to Screen pipeline",
+            "Controlling data through components"
+        ],
+        "backgroundImage": "https://img.freepik.com/premium-photo/3d-black-white-low-polygon-topographic-terrain_167650-1307.jpg"
+    },
+    {
+        "projectName": "Used Car Ecommerce platform",
+        "projectSummary": "Recreation of a public Ecommerce site, Primarily used to learn Next.js with its file based routing, No monetary gain was achieved via this recreation.",
+        "projectGithubLink": "https://github.com/Sweattowel/car-page",
+        "projectTechnologyUsed": [
+            "Next.js",
+            "Tailwind",
+            "VS"
+        ],
+        "backgroundImage" : "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=960"
+    },
+    {
+        "projectName": "C# RPG",
+        "projectSummary": "A Educational Hobby activity in which i design and playest a C# written console RPG, its purpose being to learn and reinforce C# programming and to reinforce the basics of programming",
+        "projectGithubLink": "https://github.com/Sweattowel/C--RPG",
+        "projectTechnologyUsed": [
+            "C#"
+        ],
+        "backgroundImage" : "https://be.tricentis.com/media-assets/2024/03/intro-c.png"
+    },
+    {
+        "projectName": "Developer Portfolio",
+        "projectSummary": "A portfolio personally created and designed with an emphasis on colour standards, style and up to date standards. Hosted on Vercel.",
+        "projectGithubLink": "https://github.com/Sweattowel/Portfolio",
+        "projectTechnologyUsed": [
+            "React.JS",
+            "Nasa Photo API",
+            "Tailwind",
+            "ENV"
+        ],
+        "backgroundImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrChvSSIHyokvkzP2T_-ND99sy85k4yG8LBA&s"
+    },
+    {
+        "projectName": "Updated developer Portfolio",
+        "projectSummary": "An updated portfolio with a focus on removing outdated visual design created and designed with an emphasis on colour standards, style and up to date standards. Hosted on Vercel.",
+        "projectGithubLink": "https://github.com/Sweattowel/Portfolio",
+        "projectTechnologyUsed": [
+            "React.JS",
+            "Nasa Photo API",
+            "Tailwind",
+            "ENV"
+        ],
+        "backgroundImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScN5-zCTmNhGUgEpVP6jA1QWfXZSw0jbGMNQ&s"
+    }
+]

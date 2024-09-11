@@ -89,8 +89,6 @@ const filePaths : fileStruc[] =
 ];
 
 export default function Home() {
-
-
   return (
     <main
       className="bg-black text-white h-[100vh]"
@@ -99,7 +97,7 @@ export default function Home() {
       <h1
         className="ml-[20px]"
       >
-        Recursive Site file structure
+        Site Structure and useful links
       </h1>
       <ul
         className="border-t p-5"
